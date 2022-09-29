@@ -1,2 +1,2 @@
 # FoodBlog
-Developing Food Blog website
+Using HTML,CSS,JavaScript
